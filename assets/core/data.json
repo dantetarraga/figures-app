@@ -1,0 +1,236 @@
+{
+    "Rectangulo": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Circulo": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Cuadrado": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Triangulo": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Rombo": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Cono": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Cilindro": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Cubo": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ],
+    "Esfera": [
+        {
+            "image": "assets/lottie/pizza.json",
+            "isCorrect": false,
+            "audio": "audio/triangulo_error.mp3",
+            "color": "Colors.blue"
+        },
+        {
+            "image": "assets/lottie/clock-circle.json",
+            "isCorrect": false,
+            "audio": "audio/circulo_error.mp3",
+            "color": "Color.fromARGB(255, 245, 169, 199)"
+        },
+        {
+            "image": "assets/lottie/ruler.json",
+            "isCorrect": true,
+            "audio": "audio/logrado.mp3",
+            "color": "Color.fromARGB(255, 247, 239, 239)"
+        },
+        {
+            "image": "assets/lottie/stop.json",
+            "isCorrect": false,
+            "audio": "audio/hexagono_error.mp3",
+            "color": "Colors.yellow"
+        }
+    ]
+}
